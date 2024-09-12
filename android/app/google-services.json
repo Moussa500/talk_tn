@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "417056880358",
+    "project_id": "chatapp-547a7",
+    "storage_bucket": "chatapp-547a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417056880358:android:7598e32a252c9d48176d27",
+        "android_client_info": {
+          "package_name": "com.example.talk_tn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyvfqlz_74eE4dG5f1aiMaupZfB6kRIFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417056880358:android:08133d9457e7d9ca176d27",
+        "android_client_info": {
+          "package_name": "com.example.talk_tn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyvfqlz_74eE4dG5f1aiMaupZfB6kRIFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417056880358:android:7722cecc5544d32c176d27",
+        "android_client_info": {
+          "package_name": "com.messenger.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyvfqlz_74eE4dG5f1aiMaupZfB6kRIFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
